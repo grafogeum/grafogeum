@@ -7,7 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grafogeum&label=Profile%20views&color=0e75b6&style=flat" alt="grafogeum" /> </p>
 
-<p align="center" style={width:500px}> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grafogeum" alt="grafogeum" /></a> </p>
+<!-- <p align="center" style={width:500px}> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grafogeum" alt="grafogeum" /></a> </p> -->
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Online](https://img.shields.io/badge/Status-Online-brightgreen)
+
+
 
 <p align="left">
 </p>
