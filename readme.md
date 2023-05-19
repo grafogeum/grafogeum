@@ -1,6 +1,6 @@
 
-# <span align="left">Hi 👋🏼, I'm Michal,</span>
-# <h1 align="left"><span>  🕶️ Frontend Developer with attitude 🤘🏿</span></h1>
+ <span align="left">Hi 👋🏼, I'm Michal,</span>
+<h1 align="left"><span>  🕶️ Frontend Developer with attitude 🤘🏿</span></h1>
 
 ![Availability](https://img.shields.io/badge/Availability-Online-brightgreen)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grafogeum&label=Profile%20views&color=0e75b6&style=flat" alt="grafogeum" /> </p>
