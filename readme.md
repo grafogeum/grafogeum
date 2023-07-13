@@ -1,5 +1,8 @@
-
- <span align="left">Hi 👋🏼, I'm Michal,</span>
+#### $\textcolor{brown}{My\ older\ profile\ }$ 
+[![](https://img.shields.io/badge/Gitlab-61DAFB?logo=gitlab)](https://gitlab.com/rozek)
+<span> https://gitlab.com/rozek </span> 
+---
+ <p><span align="left">Hi 👋🏼, I'm Michal,</span> </p>
 <h1 align="left"><span>  🕶️ Frontend Developer with attitude 🤘🏿</span></h1>
 
 ![Availability](https://img.shields.io/badge/Availability-Online-brightgreen)
