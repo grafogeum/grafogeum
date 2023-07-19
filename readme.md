@@ -1,6 +1,10 @@
 #### $\textcolor{brown}{My\ older\ profile\ }$ 
 [![](https://img.shields.io/badge/Gitlab-61DAFB?logo=gitlab)](https://gitlab.com/rozek)
 <span> https://gitlab.com/rozek </span> 
+<br />
+#### $\textcolor{brown}{My\ current\ repositories\ }$ 
+[![](https://img.shields.io/badge/Github-22334B?logo=github)](https://github.com/grafogeum)
+<span>https://github.com/grafogeum?tab=repositories</span> 
 ---
  <p><span align="left">Hi 👋🏼, I'm Michal,</span> </p>
 <h1 align="left"><span>  🕶️ Frontend Developer with attitude 🤘🏿</span></h1>
