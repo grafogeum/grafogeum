@@ -1,8 +1,8 @@
-#### $\textcolor{brown}{My\ older\ profile\ }$ 
+#### My older profile
 [![](https://img.shields.io/badge/Gitlab-61DAFB?logo=gitlab)](https://gitlab.com/rozek)
 <span> https://gitlab.com/rozek </span> 
 <br />
-#### $\textcolor{brown}{My\ current\ repositories\ }$ 
+#### My current repositories
 [![](https://img.shields.io/badge/Github-22334B?logo=github)](https://github.com/grafogeum)
 <span>https://github.com/grafogeum?tab=repositories</span> 
 ---
